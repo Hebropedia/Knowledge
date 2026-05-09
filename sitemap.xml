@@ -1,54 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://Hebropedia.github.io/Knowledge/</loc>
+    <loc>https://YOUR_NEW_GITHUB_USERNAME_HERE.github.io/Knowledge/</loc>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://Hebropedia.github.io/Knowledge/ted_turner.html</loc>
+    <loc>https://YOUR_NEW_GITHUB_USERNAME_HERE.github.io/Knowledge/ted_turner.html</loc>
     <lastmod>Sat May 09 2026 00:00:00 GMT+0300 (Israel Daylight Time)</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://Hebropedia.github.io/Knowledge/orthohantavirus.html</loc>
+    <loc>https://YOUR_NEW_GITHUB_USERNAME_HERE.github.io/Knowledge/orthohantavirus.html</loc>
     <lastmod>Sat May 09 2026 00:00:00 GMT+0300 (Israel Daylight Time)</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://Hebropedia.github.io/Knowledge/shinyhunters.html</loc>
+    <loc>https://YOUR_NEW_GITHUB_USERNAME_HERE.github.io/Knowledge/shinyhunters.html</loc>
     <lastmod>Sat May 09 2026 00:00:00 GMT+0300 (Israel Daylight Time)</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://Hebropedia.github.io/Knowledge/david_attenborough.html</loc>
+    <loc>https://YOUR_NEW_GITHUB_USERNAME_HERE.github.io/Knowledge/david_attenborough.html</loc>
     <lastmod>Sat May 09 2026 00:00:00 GMT+0300 (Israel Daylight Time)</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://Hebropedia.github.io/Knowledge/xxx.html</loc>
+    <loc>https://YOUR_NEW_GITHUB_USERNAME_HERE.github.io/Knowledge/xxx.html</loc>
     <lastmod>Sat May 09 2026 00:00:00 GMT+0300 (Israel Daylight Time)</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://Hebropedia.github.io/Knowledge/2026_tamil_nadu_legislative_assembly_election.html</loc>
+    <loc>https://YOUR_NEW_GITHUB_USERNAME_HERE.github.io/Knowledge/2026_tamil_nadu_legislative_assembly_election.html</loc>
     <lastmod>Sat May 09 2026 00:00:00 GMT+0300 (Israel Daylight Time)</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://Hebropedia.github.io/Knowledge/vijay_actor.html</loc>
+    <loc>https://YOUR_NEW_GITHUB_USERNAME_HERE.github.io/Knowledge/vijay_actor.html</loc>
     <lastmod>Sat May 09 2026 00:00:00 GMT+0300 (Israel Daylight Time)</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://Hebropedia.github.io/Knowledge/jan_koum.html</loc>
+    <loc>https://YOUR_NEW_GITHUB_USERNAME_HERE.github.io/Knowledge/jan_koum.html</loc>
+    <lastmod>Sat May 09 2026 00:00:00 GMT+0300 (Israel Daylight Time)</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://YOUR_NEW_GITHUB_USERNAME_HERE.github.io/Knowledge/michael_jackson.html</loc>
     <lastmod>Sat May 09 2026 00:00:00 GMT+0300 (Israel Daylight Time)</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
