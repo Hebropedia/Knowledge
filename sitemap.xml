@@ -263,4 +263,10 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://YOUR_NEW_GITHUB_USERNAME_HERE.github.io/Knowledge/2026_west_bengal_legislative_assembly_election.html</loc>
+    <lastmod>Sun May 10 2026 00:00:00 GMT+0300 (Israel Daylight Time)</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>
