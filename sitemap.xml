@@ -479,4 +479,10 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://YOUR_NEW_GITHUB_USERNAME_HERE.github.io/Knowledge/mothers_day.html</loc>
+    <lastmod>Mon May 11 2026 00:00:00 GMT+0300 (Israel Daylight Time)</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>
